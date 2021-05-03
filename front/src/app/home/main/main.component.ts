@@ -15,17 +15,12 @@ export class MainComponent implements OnInit {
     title: 'Colabore - Ajude a melhorar a diversidade na publicidade'
   },
   {
-    image: 'assets/image copy.jpg',
-    thumbImage: 'assets/image.jpg',
+    image: 'assets/image_10.jpg',
+    thumbImage: 'assets/image_10.jpg',
     alt: 'alt of image',
     title: 'title of image'
   },
-  {
-    image: 'assets/image copy 2.jpg',
-    thumbImage: 'assets/image.jpg',
-    alt: 'alt of image',
-    title: 'title of image'
-  },
+
 ];
   
   constructor() { }
