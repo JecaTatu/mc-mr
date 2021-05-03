@@ -1,0 +1,24 @@
+.mat-toolbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background: rgb(219, 170, 78);
+  color: white;
+}
+
+.toolbar-center {
+  display: flex;
+  flex-direction: row;
+  gap: 3rem;
+  font-size: larger;
+}
+
+a {
+  text-decoration: none;
+  text-decoration-color: none;
+  color: black;
+}
+
+a:hover {
+  color: aliceblue;
+}
