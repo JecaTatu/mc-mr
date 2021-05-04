@@ -9,6 +9,8 @@
 
 # <p align="center"> MEU CRESPO, MINHAS REGRAS</p>
 
+- Video demo disponível [aqui](https://youtu.be/b_xwU8g0DvM)
+
 =================
 
 <!--ts-->
